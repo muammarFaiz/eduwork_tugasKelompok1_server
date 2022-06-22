@@ -1,0 +1,17 @@
+{
+  "name": "eduwork_projectkelompok1_server",
+  "version": "1.0.0",
+  "description": "server side project kelompok 1 eduwork",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "with_nodemon": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "mongoose": "^6.4.0"
+  }
+}

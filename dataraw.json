@@ -1,0 +1,116 @@
+[
+  {
+    "nama": "nasi goreng",
+    "harga": 12000,
+    "kategori": "makanan",
+    "deskripsi": "dengan ayam suwir dan ati ampela"
+  },
+  {
+    "nama": "nasi putih",
+    "harga": 3000,
+    "kategori": "makanan",
+    "deskripsi": "dengan bawang goreng"
+  },
+  {
+    "nama": "nasi goreng spesial",
+    "harga": 17000,
+    "kategori": "makanan",
+    "deskripsi": "dengan ayam suwir, ati ampela, petai, dan sosis"
+  },
+  {
+    "nama": "gado-gado",
+    "harga": 11000,
+    "kategori": "makanan",
+    "deskripsi": "dengan telur rebus dan kerupuk udang"
+  },
+  {
+    "nama": "ayam bakar",
+    "harga": 9000,
+    "kategori": "makanan",
+    "deskripsi": "dengan sambal goreng"
+  },
+  {
+    "nama": "mie ayam",
+    "harga": 15000,
+    "kategori": "makanan",
+    "deskripsi": "dengan ceker ayam"
+  },
+  {
+    "nama": "ayam goreng",
+    "harga": 8000,
+    "kategori": "makanan",
+    "deskripsi": "gratis nasi putih"
+  },
+  {
+    "nama": "pisang goreng",
+    "harga": 3000,
+    "kategori": "makanan ringan",
+    "deskripsi": "beli dua gratis satu"
+  },
+  {
+    "nama": "kacang rebus",
+    "harga": 5000,
+    "kategori": "makanan ringan",
+    "deskripsi": "bonus kupon"
+  },
+  {
+    "nama": "siomay",
+    "harga": 5000,
+    "kategori": "makanan ringan",
+    "deskripsi": "bonus kupon"
+  },
+  {
+    "nama": "rujak buah",
+    "harga": 6000,
+    "kategori": "makanan ringan",
+    "deskripsi": "bonus kupon"
+  },
+  {
+    "nama": "kentang goreng",
+    "harga": 5000,
+    "kategori": "makanan ringan",
+    "deskripsi": "beli tiga gratis satu"
+  },
+  {
+    "nama": "teh",
+    "harga": 6000,
+    "kategori": "minuman",
+    "deskripsi": "bonus kupon"
+  },
+  {
+    "nama": "kopi susu",
+    "harga": 7000,
+    "kategori": "minuman",
+    "deskripsi": "bonus kupon"
+  },
+  {
+    "nama": "kopi pahit",
+    "harga": 4500,
+    "kategori": "minuman",
+    "deskripsi": "bonus kupon"
+  },
+  {
+    "nama": "jus mangga",
+    "harga": 7000,
+    "kategori": "minuman",
+    "deskripsi": "bonus kupon"
+  },
+  {
+    "nama": "jus alpukat",
+    "harga": 9000,
+    "kategori": "minuman",
+    "deskripsi": "bonus kupon"
+  },
+  {
+    "nama": "jus jeruk",
+    "harga": 6000,
+    "kategori": "minuman",
+    "deskripsi": "bonus kupon"
+  },
+  {
+    "nama": "jus apel",
+    "harga": 8000,
+    "kategori": "minuman",
+    "deskripsi": "bonus kupon"
+  }
+]
